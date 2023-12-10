@@ -15,6 +15,7 @@ Step by step:
 2.5 Login with Azure  using the command 
 
   #az login
+
 2.6 Type the commands :
 
    #cd /your folder
